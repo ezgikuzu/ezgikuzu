@@ -22,7 +22,7 @@ I am a developer focused on frontend development, aiming to build user-centered 
 
 I hold a degree in Biology and am currently pursuing a Master’s degree in Biotechnology, with a growing interest in bioinformatics.
 
-Primarily engaged in the JavaScript ecosystem, I am particularly interested in mobile technologies such as React Native and Flutter, while also improving my native development skills with Swift.
+I am particularly interested in mobile technologies such as React Native and Flutter, while also improving my native development skills with Swift.
 
 In my projects, I prioritize UX/UI principles and develop solutions that place user experience at the center. I am open to continuous learning and strive to improve myself by following new technologies.
 
