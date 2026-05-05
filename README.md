@@ -18,7 +18,19 @@ Here are some ideas to get you started:
 </p>
 
 # 💫 About Me:
-Ezgi Kuzu is a developer focused on frontend development, aiming to build user-centered digital products. She creates high-performance, scalable, and visually appealing interfaces using modern web technologies.<br><br>Primarily engaged in the JavaScript ecosystem, she is particularly interested in mobile technologies such as React Native and Flutter, while also improving her native development skills with Swift.<br><br>In her projects, she prioritizes UX/UI principles and develops solutions that place user experience at the center. She is open to continuous learning and aims to improve herself by following new technologies.<br><br>🚀 Areas of interest:<br><br>Frontend Development<br>Mobile App Development<br>UI/UX Design
+I am a developer focused on frontend development, aiming to build user-centered digital products. I create high-performance, scalable, and visually appealing interfaces using modern web technologies.
+
+I hold a degree in Biology and am currently pursuing a Master’s degree in Biotechnology, with a growing interest in bioinformatics.
+
+Primarily engaged in the JavaScript ecosystem, I am particularly interested in mobile technologies such as React Native and Flutter, while also improving my native development skills with Swift.
+
+In my projects, I prioritize UX/UI principles and develop solutions that place user experience at the center. I am open to continuous learning and strive to improve myself by following new technologies.
+
+🚀 Areas of interest:
+Frontend Development  
+Mobile App Development  
+UI/UX Design  
+Bioinformatics
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ezgi̇kuzu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ezgiikuzuu@gmail.com) 
