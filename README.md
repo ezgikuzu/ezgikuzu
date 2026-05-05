@@ -27,6 +27,7 @@ Primarily engaged in the JavaScript ecosystem, I am particularly interested in m
 In my projects, I prioritize UX/UI principles and develop solutions that place user experience at the center. I am open to continuous learning and strive to improve myself by following new technologies.
 
 🚀 Areas of interest:
+
 Frontend Development  
 Mobile App Development  
 UI/UX Design  
